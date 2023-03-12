@@ -56,7 +56,7 @@ isThereSubtextInText() ? showAllSubtextsInText() : showSubtextWarningMessage();
 
 ---
 ## *Dev Experience*
-Self-studying and a great beginner course of a secret Front-end Developer freelancer from youtube. Also have a good friend, a Back-end developer, who is kind of a mentor to me.
+Self-studying and a great beginner course of a secret Front-end Developer freelancer from youtube. Also have a good friend, a Back-end Developer, who is kind of a mentor to me.
 
 ---
 ## *Education*
