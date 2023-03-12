@@ -7,7 +7,7 @@
 * **Phone:** +7 747 371 6442, +7 747 656 3137
 * **Email:** 3abolotskih@gmail.com
 * **GitHub:** [Chferchko](https://github.com/Chferchko)
-* **Telegram:** [Empty Full](https://t.me/full3mpty)
+* **Telegram:** [@EmptyFull](https://t.me/full3mpty)
 
 ---
 ## *About Myself*
@@ -29,7 +29,7 @@ Hello, I am a beginner developer since 15 Nov 2022. Want to start my freedom lif
 ## *Code Example*
 ```
 let text = 'Фрилансер';
-let subtext = "н";
+let subtext = 'н';
 let position = 0;
 
 let getEndPosition = () => position + subtext.length;
@@ -56,7 +56,7 @@ isThereSubtextInText() ? showAllSubtextsInText() : showSubtextWarningMessage();
 
 ---
 ## *Dev Experience*
-Self-studying and a great beginner course of a secret Frontend Developer freelancer from youtube. Also have a good friend, a back-end developer, who is kind of a mentor to me.
+Self-studying and a great beginner course of a secret Front-end Developer freelancer from youtube. Also have a good friend, a Back-end developer, who is kind of a mentor to me.
 
 ---
 ## *Education*
