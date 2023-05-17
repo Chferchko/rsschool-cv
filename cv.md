@@ -7,7 +7,7 @@
 * **Phone:** +7 747 371 6442, +7 747 656 3137
 * **Email:** 3abolotskih@gmail.com
 * **GitHub:** [Chferchko](https://github.com/Chferchko)
-* **Telegram:** [@EmptyFull](https://t.me/full3mpty)
+* **Telegram:** [@byJecka](https://t.me/byJecka)
 
 ---
 ## *About Myself*
